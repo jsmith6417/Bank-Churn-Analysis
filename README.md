@@ -1,2 +1,5 @@
 # Bank-Churn-Analysis
-Bank Customer Churn Analysis
+# Three files
+# Bank Churn Analysis.ipynb
+# Bank Churn Internal Report.pdf
+# Bank Churn Rate.pptx
