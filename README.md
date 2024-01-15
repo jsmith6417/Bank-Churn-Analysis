@@ -8,4 +8,4 @@ Bank Churn Internal Report.pdf
 
 Bank Churn Rate.pptx
 
-Please see https://public.tableau.com/app/profile/jeff.smith4760/viz/BankChurnRate_16992124743890/BankChurnRates for the visualizations at Tableau Public
+Please see https://public.tableau.com/views/BankChurnRate_16992124743890/BankChurnRates?:language=en-US&:display_count=n&:origin=viz_share_link for the visualizations at Tableau Public
